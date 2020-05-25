@@ -1,3 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
 * {
     box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    background-color: hsl(0, 0%, 98%);
+}
+  
+/* PAGE HEADER */
+.intro {
+    width: 100%;
+    padding-top: 55px;
+    text-align: center;
+}
+  
+#delivery {
+    font-weight: 200;
+    line-height: 0.2;
+}
+  
+.intro h1 {
+    color: hsl(234, 12%, 34%);
+}
+  
+.intro p {
+    color: hsl(229, 6%, 66%);
+    line-height: 1.5;
+    padding: 0 31%;
+}
+  
+/* PAGE CONTENT */
+main {
+    width: 100%;
+    padding: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
+main h3 {
+    color: hsl(234, 12%, 34%);
+}
+  
+main p {
+    color: hsl(229, 6%, 66%);
+    line-height: 1.7;
+}
+  
+  /* 1st CARD SECTION */
+.supervisor {
+    width: 28%;
+    padding: 1% 2% 0;
+    margin: 1%;
+    border-radius: 8px;
+    border-top: 3px solid hsl(180, 62%, 55%);
+    box-shadow: 2px 5px 15px hsl(234, 25%, 74%);
+    background-color: #fff;
+    position: relative;
+    top: 140px;
+}
+  
+.supervisor img {
+    padding: 10% 90%;
+}
+  
+/* 2nd CARD SECTION */
+.team {
+    width: 28%;
+    padding: 1% 2% 0;
+    margin: 1%;
+    border-radius: 8px;
+    border-top: 3px solid hsl(0, 78%, 62%);
+    box-shadow: 2px 5px 15px hsl(234, 25%, 74%);
+    background-color: #fff;
+}
+  
+.team img {
+    padding: 10% 90%;
+}
+  
+  /* 3rd CARD SECTION */
+.calculator {
+    width: 28%;
+    padding: 1% 2% 0;
+    margin: 1%;
+    border-radius: 8px;
+    border-top: 3px solid hsl(212, 86%, 64%);
+    box-shadow: 2px 5px 15px hsl(234, 25%, 74%);
+    background-color: #fff;
+    position: relative;
+    top: 140px;
+}
+  
+.calculator img {
+    padding: 10% 90%;
+}
+  
+/* 4th CARD SECTION */
+.karma {
+    width: 28%;
+    padding: 1% 2% 0;
+    margin: 1%;
+    border-radius: 8px;
+    border-top: 3px solid hsl(34, 97%, 64%);
+    box-shadow: 2px 5px 15px hsl(234, 25%, 74%);
+    background-color: #fff;
+}
+  
+.karma img {
+    padding: 10% 90%;
+}
+  
+/* Any devices, 1200px and below */
+@media screen only and (max-width: 1200px) {
+    /* PAGE HEADER */
+    .intro {
+      
+    }
 }
