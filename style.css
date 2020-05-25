@@ -80,6 +80,7 @@ main p {
     border-top: 3px solid hsl(0, 78%, 62%);
     box-shadow: 2px 5px 15px hsl(234, 25%, 74%);
     background-color: #fff;
+    position: relative;
 }
   
 .team img {
@@ -112,16 +113,55 @@ main p {
     border-top: 3px solid hsl(34, 97%, 64%);
     box-shadow: 2px 5px 15px hsl(234, 25%, 74%);
     background-color: #fff;
+    position: relative;
 }
   
 .karma img {
     padding: 10% 90%;
 }
   
-/* Any devices, 1200px and below */
-@media screen only and (max-width: 1200px) {
+/* Any devices, from 351px up till 1200px*/
+@media only screen and (min-width: 351px) and (max-width: 1200px) {
     /* PAGE HEADER */
     .intro {
+        padding: 60px 20px 0;
+        font-size: 0.8rem;
+    }
       
+    .intro p {
+        padding: 0 43px;
+    }
+    
+    /* PAGE CONTENT */
+    main {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    /* ALL CARDS SECTION */
+    .media {
+        width: 335px;
+        padding: 10px 20px 0;
+        top: 30px;
+    }
+    
+    /* ALL CARDS IMG. */
+    .media img {
+        padding: 10% 80%;
+    }
+    
+    /* INDIVIDUAL CARD POSITIONING */
+    .team {
+        top: 50px;
+    }
+      
+    .calculator {
+        position: absolute;
+        top: 1110px;   
+    }
+      
+    .karma {
+        position: absolute;
+        top: 824px;
     }
 }
