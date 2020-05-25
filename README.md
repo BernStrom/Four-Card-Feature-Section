@@ -43,8 +43,8 @@ And most important of all, _**Happy coding!🚀**_
 <br />
 
 #### Tablet (iPad Pro 12.9 - landscape view @ 1024 x 1366)
-![Page preview on iPad Pro 12.9 in landscape view](./screenshots/Sizzy-iPad Pro-12.9-landscape.png)
+![Page preview on iPad Pro 12.9 in landscape view](./screenshots/Sizzy-iPad-Pro-12.9-landscape.png)
 <br />
 
 #### Laptop (Macbook Pro 15 @ 1680 x 1050)
-![Page preview on Macbook Pro 15](./screenshots/Sizzy-Macbook Pro-15.png)
+![Page preview on Macbook Pro 15](./screenshots/Sizzy-Macbook-Pro-15.png)
