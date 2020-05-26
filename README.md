@@ -40,11 +40,11 @@ And most important of all, _**Happy coding!🚀**_
 
 #### Phone (Galaxy S9+ @ 412 x 846)
 ![Page preview on Galaxy S9+](./screenshots/Sizzy-Galaxy-S9+.png)
-<br />
+<hr />
 
 #### Tablet (iPad Pro 12.9 with device frame in landscape view @ 1024 x 1366)
 ![Page preview on iPad Pro 12.9 in landscape view](./screenshots/Sizzy-iPad-Pro-12.9-landscape.png)
-<br />
+<hr />
 
 #### Laptop (Macbook Pro 15 @ 1680 x 1050)
 ![Page preview on Macbook Pro 15](./screenshots/Sizzy-Macbook-Pro-15.png)
