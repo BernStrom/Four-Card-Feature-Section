@@ -1,8 +1,17 @@
+<p align="center">
+  <a href="#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#objectives-of-the-project">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-technical-components">Technical Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bookmark-attribution">Attribution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera_flash-screenshots-of-responsive-design">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
 ## Four Card Feature Section
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## 👋 Welcome!
 
 Thanks for checking out this project.
 
@@ -14,7 +23,7 @@ The Four Card Feature Section is a small project for practicing layouts and resp
 
 This project was obtained from a list of challenges by Frontend Mentor.
 
-## Objectives of the project
+## :pushpin: Objectives of the project
 
 * Use as much semantic HTML5 markup. *Manage code readability, accessibility and SEO optimization of web page.*
 
@@ -26,17 +35,17 @@ This project was obtained from a list of challenges by Frontend Mentor.
 
 And most important of all, _**Happy coding!🚀**_
 
-## Technical Components
+## :gear: Technical Components
 
 * Flexbox
 
 * Media queries used to build the responsive design
 
-## Attribution
+## :bookmark: Attribution
 
 [Responsive design testing app by Sizzy](https://a.paddle.com/v2/click/49831/114619?link=1947/ "Sizzy.co")
 
-## Screenshots of Responsive Design
+## :camera_flash: Screenshots of Responsive Design
 
 #### Phone (Galaxy S9+ @ 412 x 846)
 ![Page preview on Galaxy S9+](./screenshots/Sizzy-Galaxy-S9+.png)
@@ -48,3 +57,6 @@ And most important of all, _**Happy coding!🚀**_
 
 #### Laptop (Macbook Pro 15 @ 1680 x 1050)
 ![Page preview on Macbook Pro 15](./screenshots/Sizzy-Macbook-Pro-15.png)
+
+## :memo: License
+This project is licensed under the terms of the MIT license. For more information, please refer to the license [documentation](LICENSE.md).
